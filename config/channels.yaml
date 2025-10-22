@@ -50,7 +50,7 @@ cctv9:
     - CCTV9 纪录
   scraper:
     cctv: cctvjilu
-  plugin: weibo_cctv9
+  #plugin: weibo_cctv9
   refresh: today
   recap: 7
   preview: 2
